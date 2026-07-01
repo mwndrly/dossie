@@ -48,8 +48,8 @@ function buildShell() {
         <p>Desenvolvedora de Software Sênior em evolução para liderança técnica.</p>
       </div>
       <div class="footer-links">
-        <a href="evidencias.html#github">GitHub</a>
-        <a href="evidencias.html#linkedin">LinkedIn</a>
+        <a href="https://github.com/mwndrly" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/mwndrly/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a href="projetos.html#atlas">Atlas</a>
       </div>
     `;

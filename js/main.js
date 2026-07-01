@@ -50,7 +50,7 @@ function buildShell() {
       <div class="footer-links">
         <a href="https://github.com/mwndrly" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="https://www.linkedin.com/in/mwndrly/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="projetos.html#atlas">Atlas</a>
+        <a href="projetos.html">Projetos</a>
       </div>
     `;
   }

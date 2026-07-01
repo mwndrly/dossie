@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
+  <title id="title">Espaço reservado para foto de Mariana Ferreira</title>
+  <desc id="desc">Composição abstrata com iniciais MF para representar o local da fotografia profissional.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset=".48" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="rgba(255,255,255,.18)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="720" height="960" fill="url(#g)"/>
+  <rect width="720" height="960" fill="url(#grid)" opacity=".32"/>
+  <circle cx="570" cy="170" r="150" fill="rgba(255,255,255,.16)"/>
+  <circle cx="130" cy="780" r="190" fill="rgba(255,255,255,.12)"/>
+  <circle cx="360" cy="350" r="126" fill="rgba(255,255,255,.16)" stroke="rgba(255,255,255,.44)" stroke-width="2"/>
+  <circle cx="360" cy="315" r="42" fill="rgba(255,255,255,.78)"/>
+  <path d="M274 420c18-54 52-82 86-82s68 28 86 82" fill="none" stroke="rgba(255,255,255,.78)" stroke-width="30" stroke-linecap="round"/>
+  <text x="50%" y="59%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="800">MF</text>
+  <text x="50%" y="67%" dominant-baseline="middle" text-anchor="middle" fill="rgba(255,255,255,.9)" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">Foto profissional</text>
+</svg>

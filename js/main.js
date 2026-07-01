@@ -5,7 +5,6 @@ const pages = [
   ["contexto.html", "Contexto"],
   ["desenvolvimento.html", "Hipóteses"],
   ["experimentacao.html", "Experimentação"],
-  ["evidencias.html", "Evidências"],
   ["projetos.html", "Projetos"],
   ["pos-faculdade.html", "Pós-Faculdade"],
   ["sintese.html", "Síntese"],
